@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 22 19:39:32 2022
-
-@author: paull
-"""
 
 # =============================================================================
 #  Movie review sentiment classification
