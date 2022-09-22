@@ -21,7 +21,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn import metrics
 
-review = pd.read_csv("C:/Users/paull/Downloads/Prac_10_NaiveBayes/IMDB.csv")
+review = pd.read_csv(".../IMDB.csv")
 #review = pd.read_csv('IMDB.csv')
 print(review.head())
 
